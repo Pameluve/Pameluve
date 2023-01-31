@@ -46,13 +46,18 @@ Trabajar mientras conozco el mundo 😍. Me apasiona conocer nuevas cosas, perso
 
 
 
-### 📂 Qué proyectos realicé?  
-1. Proyecto Individual - Countries (soyHenry BootCamp)
+### 📂 Qué proyectos realicé?
+1. Proyecto Individual - Videogames (soyHenry BootCamp)
+Desarrollo de una página Web (Base de datos, Back y Front End) utilizando Postgres SQL, Sequelize, Node JS, Express, Redux, React JS, en lenguaje Javascript y CSS. La página obtiene información sobre videojuegos desde una API externa y le permite al usuario revisar/filtrar información por nombre, puntuación, videojuegos obtenidos de la API o de una base de datos propia, la cual se alimenta de un formulario que permite postear información de un videojuego creado. El HOME incluye paginado, además de un componente específico para el detalle de información de cada juego.
+    * Repo: https://github.com/Pameluve/PI-Videogames-main
+    * Deploy: https://pi-videogames-front-production.up.railway.app/
+
+
+2. Proyecto Individual - Countries (soyHenry BootCamp)
 Desarrollo de una página Web (Base de datos, Back y Front End) utilizando Postgres SQL, Sequelize, Node JS, Express, Redux, React JS, en lenguaje Javascript y CSS. La página obtiene información de todos los paises desde una API externa y le permite al usuario revisar/filtrar información por nombre, continente o población, además de crear actividades para cualquiera de los paises. El HOME incluye paginado, además de un componente especifico para el detalle de información de cada país.
+    * Repo: https://github.com/Pameluve/PI-Countries-main
 
-Repo: https://github.com/Pameluve/PI-Countries-main
-
-2. Practicas en Empresa - Mecanu (soyHenry BootCamp)
+3. Practicas en Empresa - Mecanu (soyHenry BootCamp)
 Durante estás prácticas, trabajamos principalmente en:
   • Identificar y gestionar requerimientos del cliente
   • Rediseñar el flujo de cotización de la página 
