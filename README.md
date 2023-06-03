@@ -56,6 +56,7 @@ Desarrollo de una página Web (Base de datos, Back y Front End) utilizando Postg
 2. Proyecto Individual - Countries (soyHenry BootCamp)
 Desarrollo de una página Web (Base de datos, Back y Front End) utilizando Postgres SQL, Sequelize, Node JS, Express, Redux, React JS, en lenguaje Javascript y CSS. La página obtiene información de todos los paises desde una API externa y le permite al usuario revisar/filtrar información por nombre, continente o población, además de crear actividades para cualquiera de los paises. El HOME incluye paginado, además de un componente especifico para el detalle de información de cada país.
     * Repo: https://github.com/Pameluve/PI-Countries-main
+    * Deploy: https://pi-countries-front-production-3d20.up.railway.app/
 
 3. Practicas en Empresa - Mecanu (soyHenry BootCamp)
 Durante estás prácticas, trabajamos principalmente en:
